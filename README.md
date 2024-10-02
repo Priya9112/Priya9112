@@ -13,6 +13,7 @@
 - Keras
 - Deep Learning
 - Data Science Tools
+- Gen AI
   
 ⚡ Fun fact: I love photography and exploring new tech!
 
